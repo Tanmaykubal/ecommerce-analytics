@@ -1,0 +1,10 @@
+# Data (large / licensed, so reproduced via the notebook instead)
+Raw_data/
+Final_data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
