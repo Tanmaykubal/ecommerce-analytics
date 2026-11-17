@@ -73,7 +73,7 @@ An end-to-end analytics project on the Olist Brazilian E-Commerce dataset. Eight
 | **Delivery & Reviews** | Late delivery rate, delivery trend, late rate by category, review score by delay band |
 | **Payments & Regions** | Revenue by state, installment usage, review score and late delivery rate by state |
 
-Every page has slicers for year, month, state and category.
+Every page has slicers for year, month, state, category and payment type.
 
 ---
 
