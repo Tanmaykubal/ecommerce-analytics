@@ -28,7 +28,6 @@ An end-to-end analytics project on the Olist Brazilian E-Commerce dataset. Eight
 
 ## Key Insights
 
-> Replace these with your real numbers from the dashboard.
 
 - **6.77%** of delivered orders arrived after the estimated date; late orders averaged a review score of **2.27** vs **4.29** for on-time orders.
 - **Health Beauty** generated the highest revenue, while **Computers** had the highest freight cost for greater than 100 orders.
